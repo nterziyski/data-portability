@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Matthew Paul"
+    },
+    {
+      "name": "Kathryn Miller"
+    },
+    {
+      "name": "Paul Graves"
+    },
+    {
+      "name": "Sarah Miller"
+    },
+    {
+      "name": "Lauren Ellis"
+    },
+    {
+      "name": "Samantha Bradley"
+    },
+    {
+      "name": "Ms. Lisa Lee"
+    },
+    {
+      "name": "Cameron Brock"
+    },
+    {
+      "name": "Alyssa Blankenship"
+    },
+    {
+      "name": "Michaela Hunter"
+    },
+    {
+      "name": "Robert Flores"
+    },
+    {
+      "name": "Douglas Gross"
+    },
+    {
+      "name": "Mary Lewis"
+    },
+    {
+      "name": "Robert Suarez"
+    },
+    {
+      "name": "Michael Wright"
+    },
+    {
+      "name": "Crystal Holmes"
+    },
+    {
+      "name": "Matthew Carson"
+    },
+    {
+      "name": "Angela Myers"
+    },
+    {
+      "name": "Christopher Greene"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576969200,
+      "content": "Seven",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576105200,
+      "content": "Mention oil",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578265200,
+      "content": "Same truth tend",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576969200,
+      "content": "Method bag power",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576278000,
+      "content": "Most",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577919600,
+      "content": "Dog my region them",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Follow hospital tell think get play",
+  "is_still_participant": false,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

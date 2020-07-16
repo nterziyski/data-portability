@@ -1,0 +1,27 @@
+{
+  "recognized_devices": [
+    {
+      "name": "iPhone",
+      "created_timestamp": 0,
+      "updated_timestamp": 1578524400,
+      "ip_address": "132.7.93.203",
+      "user_agent": "Chrome",
+      "datr_cookie": "7503233443345"
+    },
+    {
+      "name": "HomePC",
+      "created_timestamp": 0,
+      "ip_address": "59.4.226.165",
+      "user_agent": "Chrome",
+      "datr_cookie": "4559696632744"
+    },
+    {
+      "name": "Phone",
+      "created_timestamp": 0,
+      "updated_timestamp": 1578351600,
+      "ip_address": "98.3.105.116",
+      "user_agent": "Opera",
+      "datr_cookie": "0103719079920"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "participants": [
+    {
+      "name": "John Jones"
+    },
+    {
+      "name": "Alan Robinson"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576191600,
+      "content": "Congress model bar",
+      "photos": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576191600
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1577228400
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576882800
+        }
+      ],
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578006000,
+      "content": "Visit Democrat race trip pull reality.\nThank this child expert teacher use. Assume up after much agency old note",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576710000,
+      "content": "World vote evening let",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577574000,
+      "content": "Same until shoulder. Carry hope explain fly war.\nSpeech form analysis appear perform themselves professor. Issue force religious less beyond stop conference. Purpose investment billion all. We history region join she",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577142000,
+      "content": "She trial how with. Seek boy customer yeah",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578265200,
+      "content": "Charge stage guess community standard significant movement. Miss walk such school name strong card",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578178800,
+      "content": "Read already course program. Move center religious before.\nBeyond budget public third yard. Agency community author mention change well model. Tell college yourself television.\nPhysical toward bank head. Trade call myself American activity news",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578178800,
+      "content": "Apply ok half else table option network. Offer individual tough budget listen radio leave.\nOrder wife above level. Food agreement head two",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577055600,
+      "content": "About campaign fine stay wait. Score country easy many speak",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576537200,
+      "files": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.pdf**",
+          "creation_timestamp": 1578524400
+        }
+      ],
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576710000,
+      "content": "Election network feel hundred head. Thus goal two quality thank national after",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576105200,
+      "content": "Travel list part improve building seven kid",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577228400,
+      "content": "Sign appear",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578524400,
+      "content": "Side",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576623600,
+      "content": "See side here camera yourself enough also. Check beat fast kitchen can myself benefit",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578524400,
+      "content": "Loss Republican less",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577574000,
+      "content": "Same role look tell. Parent name food carry west center",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576191600,
+      "content": "Gun five person fine. Kid method through seat guy always place.\nAll growth within process take small. Brother image if skin agreement. Describe senior notice religious",
+      "photos": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1577487600
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1577919600
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576710000
+        }
+      ],
+      "files": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.pdf**",
+          "creation_timestamp": 1576105200
+        }
+      ],
+      "type": "Generic**"
+    }
+  ],
+  "title": "Information give",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

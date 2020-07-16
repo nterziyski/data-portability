@@ -1,0 +1,436 @@
+{
+  "admin_records": [
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577401200,
+        "ip_address": "176.175.97.107",
+        "user_agent": "Chrome",
+        "datr_cookie": "2777474156707"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577401200,
+        "ip_address": "215.226.252.176",
+        "user_agent": "IE",
+        "datr_cookie": "8283208172843"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "219.58.250.171",
+        "user_agent": "Mozilla",
+        "datr_cookie": "0379280196339"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577833200,
+        "ip_address": "152.121.185.92",
+        "user_agent": "IE",
+        "datr_cookie": "8420483855737"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576969200,
+        "ip_address": "117.142.27.240",
+        "user_agent": "IE",
+        "datr_cookie": "8371933486486"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1577401200,
+        "ip_address": "170.15.24.116",
+        "user_agent": "Chrome",
+        "datr_cookie": "4693023364806"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577574000,
+        "ip_address": "193.143.4.48",
+        "user_agent": "Opera",
+        "datr_cookie": "0741699399593"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1577574000,
+        "ip_address": "60.158.75.199",
+        "user_agent": "Opera",
+        "datr_cookie": "6366879943607"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1576450800,
+        "ip_address": "211.42.110.16",
+        "user_agent": "Opera",
+        "datr_cookie": "9615872281795"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577833200,
+        "ip_address": "82.72.130.146",
+        "user_agent": "Mozilla",
+        "datr_cookie": "6644001145502"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576537200,
+        "ip_address": "53.214.215.181",
+        "user_agent": "Mozilla",
+        "datr_cookie": "5068092491231"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "91.216.163.227",
+        "user_agent": "Mozilla",
+        "datr_cookie": "2045975831462"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1576623600,
+        "ip_address": "209.87.223.135",
+        "user_agent": "Mozilla",
+        "datr_cookie": "2572359744891"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1577142000,
+        "ip_address": "171.247.252.110",
+        "user_agent": "Chrome",
+        "datr_cookie": "5137770122177"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1577833200,
+        "ip_address": "156.0.210.17",
+        "user_agent": "IE",
+        "datr_cookie": "7366921234317"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1576710000,
+        "ip_address": "201.185.204.62",
+        "user_agent": "IE",
+        "datr_cookie": "0872648639993"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576364400,
+        "ip_address": "195.134.16.51",
+        "user_agent": "Mozilla",
+        "datr_cookie": "3187912989283"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "182.14.208.155",
+        "user_agent": "IE",
+        "datr_cookie": "2349659902432"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576278000,
+        "ip_address": "165.214.32.33",
+        "user_agent": "Opera",
+        "datr_cookie": "6123145051615"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1576191600,
+        "ip_address": "195.204.249.245",
+        "user_agent": "Mozilla",
+        "datr_cookie": "1428312714627"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1577142000,
+        "ip_address": "129.196.48.239",
+        "user_agent": "IE",
+        "datr_cookie": "1781102090043"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1578092400,
+        "ip_address": "139.108.201.140",
+        "user_agent": "Opera",
+        "datr_cookie": "4863298728522"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1578265200,
+        "ip_address": "84.226.198.245",
+        "user_agent": "Opera",
+        "datr_cookie": "3827734280785"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1578092400,
+        "ip_address": "148.141.77.164",
+        "user_agent": "Chrome",
+        "datr_cookie": "8079587493712"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577055600,
+        "ip_address": "96.209.209.66",
+        "user_agent": "Mozilla",
+        "datr_cookie": "5720267187089"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1578438000,
+        "ip_address": "212.22.13.49",
+        "user_agent": "Mozilla",
+        "datr_cookie": "4788750305953"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1577574000,
+        "ip_address": "212.225.243.207",
+        "user_agent": "Opera",
+        "datr_cookie": "7455661086017"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577574000,
+        "ip_address": "207.141.113.1",
+        "user_agent": "Opera",
+        "datr_cookie": "9912897356089"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "138.157.82.47",
+        "user_agent": "Opera",
+        "datr_cookie": "9241977625167"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576364400,
+        "ip_address": "30.214.211.79",
+        "user_agent": "IE",
+        "datr_cookie": "1661109127105"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1578006000,
+        "ip_address": "50.223.222.146",
+        "user_agent": "Opera",
+        "datr_cookie": "3578478520469"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "217.191.132.215",
+        "user_agent": "Opera",
+        "datr_cookie": "4078186658724"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1578351600,
+        "ip_address": "72.235.166.36",
+        "user_agent": "Chrome",
+        "datr_cookie": "7913307490425"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1576796400,
+        "ip_address": "223.123.251.99",
+        "user_agent": "Opera",
+        "datr_cookie": "6670760875084"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1576278000,
+        "ip_address": "207.134.166.27",
+        "user_agent": "Mozilla",
+        "datr_cookie": "1719907045364"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1576537200,
+        "ip_address": "67.167.204.129",
+        "user_agent": "IE",
+        "datr_cookie": "3170877098787"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1576710000,
+        "ip_address": "85.45.206.190",
+        "user_agent": "Chrome",
+        "datr_cookie": "9769572846904"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1578265200,
+        "ip_address": "149.254.83.14",
+        "user_agent": "Chrome",
+        "datr_cookie": "3669244372044"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576364400,
+        "ip_address": "128.83.213.215",
+        "user_agent": "Chrome",
+        "datr_cookie": "0358455613161"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1576450800,
+        "ip_address": "221.246.65.207",
+        "user_agent": "Opera",
+        "datr_cookie": "1822407498445"
+      }
+    },
+    {
+      "event": "Add/Remove Profile Photo",
+      "session": {
+        "created_timestamp": 1577746800,
+        "ip_address": "186.30.2.199",
+        "user_agent": "IE",
+        "datr_cookie": "2554247180035"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1578006000,
+        "ip_address": "193.18.150.49",
+        "user_agent": "Chrome",
+        "datr_cookie": "9972774415193"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1577833200,
+        "ip_address": "163.169.112.252",
+        "user_agent": "Chrome",
+        "datr_cookie": "1327876408594"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1577055600,
+        "ip_address": "90.230.112.63",
+        "user_agent": "Opera",
+        "datr_cookie": "8626785194134"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1577746800,
+        "ip_address": "5.140.56.17",
+        "user_agent": "Opera",
+        "datr_cookie": "1342607466759"
+      }
+    },
+    {
+      "event": "Add/Remove Phone Number",
+      "session": {
+        "created_timestamp": 1578265200,
+        "ip_address": "49.118.50.159",
+        "user_agent": "Opera",
+        "datr_cookie": "0749032559895"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1577228400,
+        "ip_address": "11.253.118.115",
+        "user_agent": "Opera",
+        "datr_cookie": "9776213859520"
+      }
+    },
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1576364400,
+        "ip_address": "87.119.62.23",
+        "user_agent": "Chrome",
+        "datr_cookie": "8237788197673"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.env
+*.swp
+__pycache__/
+*.ipynb_checkpoints
+facebook-data/
+.DS_Store

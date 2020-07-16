@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Michael Weiss"
+    },
+    {
+      "name": "Warren Moreno"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578006000,
+      "content": "Follow finally seat boy author daughter use. Pass upon little fly",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576710000,
+      "content": "Business as necessary theory. Charge election daughter keep there member.\nTop probably less. Point she also though represent here huge model. Religious book surface bed floor music push.\nModel soldier fast on trade history dinner. Require exist have purpose. Challenge laugh history you wonder owner",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577142000,
+      "content": "Experience often likely behavior risk. Particular even explain kind",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Read whom treat",
+  "is_still_participant": false,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

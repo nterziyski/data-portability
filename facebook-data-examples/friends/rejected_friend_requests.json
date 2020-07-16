@@ -1,0 +1,97 @@
+{
+  "rejected_requests": [
+    {
+      "name": "Emma Johnson",
+      "timestamp": 1577660400
+    },
+    {
+      "name": "Kristina Vega",
+      "timestamp": 1577314800
+    },
+    {
+      "name": "Autumn Walker",
+      "timestamp": 1577228400
+    },
+    {
+      "name": "Grace Mcfarland",
+      "timestamp": 1576450800
+    },
+    {
+      "name": "Maria Sanders",
+      "timestamp": 1577228400
+    },
+    {
+      "name": "Whitney Wilson",
+      "timestamp": 1576364400
+    },
+    {
+      "name": "Theresa Duarte",
+      "timestamp": 1578351600
+    },
+    {
+      "name": "Shannon Sims",
+      "timestamp": 1576364400
+    },
+    {
+      "name": "Stephanie Stewart",
+      "timestamp": 1576882800
+    },
+    {
+      "name": "Mary Dalton",
+      "timestamp": 1578438000
+    },
+    {
+      "name": "Andrew Baldwin",
+      "timestamp": 1577746800
+    },
+    {
+      "name": "Courtney Cooper",
+      "timestamp": 1576969200
+    },
+    {
+      "name": "John Mcclure",
+      "timestamp": 1577487600
+    },
+    {
+      "name": "Brian Sutton",
+      "timestamp": 1577314800
+    },
+    {
+      "name": "Catherine Lane",
+      "timestamp": 1578178800
+    },
+    {
+      "name": "Taylor Dalton",
+      "timestamp": 1577228400
+    },
+    {
+      "name": "Barbara Blake",
+      "timestamp": 1577746800
+    },
+    {
+      "name": "Julian Wong",
+      "timestamp": 1577314800,
+      "marked_as_spam": false
+    },
+    {
+      "name": "Jonathan Davis",
+      "timestamp": 1576450800,
+      "marked_as_spam": true
+    },
+    {
+      "name": "Adam Wright",
+      "timestamp": 1576882800,
+      "marked_as_spam": false
+    },
+    {
+      "name": "Eric Ford",
+      "timestamp": 1577314800,
+      "marked_as_spam": true
+    },
+    {
+      "name": "Matthew Frazier",
+      "timestamp": 1578265200,
+      "marked_as_spam": false
+    }
+  ]
+}

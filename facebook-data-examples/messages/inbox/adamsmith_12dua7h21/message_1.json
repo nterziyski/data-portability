@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Catherine Saunders"
+    },
+    {
+      "name": "Kathryn Wallace"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576882800,
+      "content": "Later she example third",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Best report",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Debra Leonard"
+    },
+    {
+      "name": "Richard Harrison"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577574000,
+      "content": "Congress east institution such matter",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577487600,
+      "content": "Check government gun wall. On trade consider already against",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577401200,
+      "content": "Bring decide window huge third. She hand provide onto off girl education",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Consumer get wait TV",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

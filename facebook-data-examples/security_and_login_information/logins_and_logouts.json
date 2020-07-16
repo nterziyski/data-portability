@@ -1,0 +1,16 @@
+{
+  "account_accesses": [
+    {
+      "action": "Login",
+      "timestamp": 1576969200,
+      "site": "www.facebook.com**",
+      "ip_address": "202.238.167.154"
+    },
+    {
+      "action": "Logout",
+      "timestamp": 1577228400,
+      "site": "www.facebook.com**",
+      "ip_address": "128.108.213.218"
+    }
+  ]
+}

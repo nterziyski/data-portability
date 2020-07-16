@@ -1,0 +1,64 @@
+{
+  "poll_votes": [
+    {
+      "timestamp": 1576882800,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Custom",
+                    "voted": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "You voted on a POLL**"
+    },
+    {
+      "timestamp": 1577746800,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Yes",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "You voted on a POLL**"
+    },
+    {
+      "timestamp": 1576710000,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Maybe",
+                    "voted": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "You voted on a POLL**"
+    }
+  ]
+}

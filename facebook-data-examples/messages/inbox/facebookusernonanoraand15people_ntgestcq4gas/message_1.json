@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Melissa Gordon"
+    },
+    {
+      "name": "Dana Maddox"
+    },
+    {
+      "name": "Jeffrey Jenkins"
+    },
+    {
+      "name": "Barbara Miller"
+    },
+    {
+      "name": "Frances Garcia"
+    },
+    {
+      "name": "Joshua Daugherty"
+    },
+    {
+      "name": "Nicole Carter"
+    },
+    {
+      "name": "Gabriel Mcclure"
+    },
+    {
+      "name": "Ryan Willis"
+    },
+    {
+      "name": "Charles Davidson"
+    },
+    {
+      "name": "William Hunt"
+    },
+    {
+      "name": "James Hernandez"
+    },
+    {
+      "name": "Veronica Reynolds"
+    },
+    {
+      "name": "Erica Tran"
+    },
+    {
+      "name": "Jeanette Brown"
+    },
+    {
+      "name": "Jason Green"
+    },
+    {
+      "name": "Erin Thomas"
+    },
+    {
+      "name": "John Beasley"
+    },
+    {
+      "name": "Jerry Wood"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578351600,
+      "content": "Long",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578265200,
+      "content": "Line bag save",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577660400,
+      "content": "Left indeed off",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576969200,
+      "content": "Indeed week image own",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577055600,
+      "content": "People",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577228400,
+      "content": "Someone future seek",
+      "type": "Generic**"
+    }
+  ],
+  "title": "With wait high while inside including",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

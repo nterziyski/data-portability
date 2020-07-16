@@ -1,0 +1,97 @@
+{
+  "rejected_requests": [
+    {
+      "name": "Edward Hanson",
+      "timestamp": 1577055600
+    },
+    {
+      "name": "Julia Ho",
+      "timestamp": 1578092400
+    },
+    {
+      "name": "Toni Calhoun",
+      "timestamp": 1577919600
+    },
+    {
+      "name": "Bruce West",
+      "timestamp": 1576969200
+    },
+    {
+      "name": "Susan Deleon",
+      "timestamp": 1577314800
+    },
+    {
+      "name": "Joshua Stevens",
+      "timestamp": 1576364400
+    },
+    {
+      "name": "Kaitlyn Davis",
+      "timestamp": 1577833200
+    },
+    {
+      "name": "Stanley Short",
+      "timestamp": 1578351600
+    },
+    {
+      "name": "Janice Dominguez",
+      "timestamp": 1577487600
+    },
+    {
+      "name": "Michelle Simpson",
+      "timestamp": 1577574000
+    },
+    {
+      "name": "Mrs. Jennifer Christensen",
+      "timestamp": 1578351600
+    },
+    {
+      "name": "Isaiah Logan",
+      "timestamp": 1577055600
+    },
+    {
+      "name": "Nancy Nelson",
+      "timestamp": 1577660400
+    },
+    {
+      "name": "Katrina Miller",
+      "timestamp": 1576278000
+    },
+    {
+      "name": "Mr. Joshua Jennings",
+      "timestamp": 1576191600
+    },
+    {
+      "name": "Amber Lambert MD",
+      "timestamp": 1576796400
+    },
+    {
+      "name": "Philip Galloway",
+      "timestamp": 1577487600
+    },
+    {
+      "name": "Christopher Donovan",
+      "timestamp": 1576191600,
+      "marked_as_spam": false
+    },
+    {
+      "name": "Alexandra Thompson",
+      "timestamp": 1576623600,
+      "marked_as_spam": true
+    },
+    {
+      "name": "David Reeves",
+      "timestamp": 1576105200,
+      "marked_as_spam": false
+    },
+    {
+      "name": "Jaime Young",
+      "timestamp": 1577228400,
+      "marked_as_spam": false
+    },
+    {
+      "name": "Robert Marquez",
+      "timestamp": 1577228400,
+      "marked_as_spam": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Felicia Haas"
+    },
+    {
+      "name": "Jennifer Hobbs"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576278000,
+      "content": "Next action catch mention late main there thank. Republican might career. Tree candidate simple lose base rest. Save place produce.\nQuality service indeed as",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577401200,
+      "content": "Indeed beautiful buy road decade",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577660400,
+      "content": "Up while about close responsibility drop. Officer writer should southern daughter still her",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Unit series leader",
+  "is_still_participant": false,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

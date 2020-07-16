@@ -1,0 +1,19 @@
+{
+  "items_selling": [
+    {
+      "location": {
+        "coordinate": {
+          "longitude": 179.791674,
+          "latitude": -38.014217
+        }
+      },
+      "seller": "Robert Green",
+      "description": "Hi folks, I'm trying to sell XYZ object**",
+      "marketplace": "Springfield City Stuff Sellers**",
+      "price": "$100**",
+      "title": "Please buy my XYZ object**",
+      "created_timestamp": 1578178800,
+      "category": "Springfield City Stuff Sellers**"
+    }
+  ]
+}

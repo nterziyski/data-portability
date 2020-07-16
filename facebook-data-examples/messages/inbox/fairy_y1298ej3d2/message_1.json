@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Mallory Woods"
+    },
+    {
+      "name": "Deanna Gordon"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576278000,
+      "content": "Yard than television he. Know return bill four wrong. Couple give develop ok within. Factor behavior bar sometimes figure talk yet.\nChoice oil instead figure. Fill expert investment nearly",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577833200,
+      "content": "Size plant respond worry",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576278000,
+      "content": "War on common right. Enough man property scientist",
+      "type": "Generic**"
+    }
+  ],
+  "title": "Same human list land",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}

@@ -1,0 +1,163 @@
+{
+  "participants": [
+    {
+      "name": "Sean Lopez"
+    },
+    {
+      "name": "Kristina Cisneros"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577574000,
+      "content": "Magazine maintain",
+      "photos": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1578006000
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576364400
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576278000
+        }
+      ],
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577919600,
+      "content": "National meet how total notice call yard.\nWant sell word director. Process service strong development right. Important person management air price fight",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576796400,
+      "content": "Student four difficult",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576105200,
+      "content": "Population technology early star happy possible. Always paper positive clear. Much man hope than writer hold out court.\nExperience property green ten month discuss world. Consider challenge share daughter do some.\nMain him small month now stand",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576278000,
+      "content": "Community not field number middle. Despite station walk require however full",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576450800,
+      "content": "Later goal close rest whom",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576364400,
+      "content": "Argue fund attorney Mrs.\nEat drop soon. Tonight us agency feeling move enjoy big.\nEye actually quickly.\nEven chair book should many former election. Both case left. Ball this still stand look",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577055600,
+      "content": "Against up event window gas. Couple left pick large. Story most true create player ten woman indeed",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577746800,
+      "content": "South specific way until rise someone detail. Military budget make likely cover upon",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577487600,
+      "files": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.pdf**",
+          "creation_timestamp": 1576450800
+        }
+      ],
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1578265200,
+      "content": "Available rock street popular road. Bar it decide question argue federal",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576105200,
+      "content": "Never public focus interest similar speak",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576105200,
+      "content": "Speak such",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576191600,
+      "content": "Here",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577487600,
+      "content": "Answer including actually student baby. Mention money accept boy alone",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1577228400,
+      "content": "Site join range nor term",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576450800,
+      "content": "Work newspaper test best he. Offer economic read series",
+      "type": "Generic**"
+    },
+    {
+      "sender_name": "A participant of the group**",
+      "timestamp_ms": 1576364400,
+      "content": "Painting set marriage successful carry beautiful same. Range quickly involve price group level age. Watch so station data try. Able professional PM everybody step avoid base",
+      "photos": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576537200
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1576796400
+        },
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.jpg**",
+          "creation_timestamp": 1577055600
+        }
+      ],
+      "files": [
+        {
+          "uri": "messages/inbox/this_conversation/some_local_path.pdf**",
+          "creation_timestamp": 1576969200
+        }
+      ],
+      "type": "Generic**"
+    }
+  ],
+  "title": "Long culture blue bad",
+  "is_still_participant": true,
+  "thread_type": "Regular**",
+  "thread_path": "inbox/participant_ID**"
+}
